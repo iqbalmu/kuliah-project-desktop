@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package pertemuan1;
+package pertemuan2;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;
@@ -72,6 +72,8 @@ public class FormRegister {
         JButton loginButton = new JButton();                                                                                                   
         loginButton.setText("Login");
         loginButton.setBounds(110, 310, 250, 30);                      
+        
+        
         
         j.add(name);
         j.add(username);
